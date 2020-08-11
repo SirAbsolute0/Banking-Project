@@ -1,0 +1,4 @@
+O:\Visual studio Full\Visual Studio project\Banking Project 4.0\Debug\Banking Project 4.0.exe
+O:\Visual studio Full\Visual Studio project\Banking Project 4.0\Debug\Banking Project 4.0.pdb
+O:\Visual studio Full\Banking Project 4.0\Debug\Banking Project 4.0.exe
+O:\Visual studio Full\Banking Project 4.0\Debug\Banking Project 4.0.pdb
